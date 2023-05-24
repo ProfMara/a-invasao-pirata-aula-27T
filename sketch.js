@@ -9,11 +9,6 @@ var solo, parado;
 var cenario;
 var torre, torreIMG;
 
-var angulo = 15;
-
-//CRIAR A MATRIZ DE BALAS VAZIA
-var balas = [];
-var navios = [];
 function preload(){
    
 }
